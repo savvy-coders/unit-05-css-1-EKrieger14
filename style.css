@@ -1,5 +1,17 @@
 /* CSS Stylesheet */
-
+body{
+    background-color: RBG(233, 233, 233);
+}
+h1{
+    font-size: 40px;
+}
+.container{
+    border: 2px solid;
+    border-color: RGB(204, 204, 204);
+}
+button:active{
+    background-color: RGB(0, 86, 179);
+}
 /* Instructions are copied here for convenience: */
 /* 1. Change the background color of the form's body element to "RGB(233, 233, 233)". */
 /* 2. Increase the font size of the form's h1 element to 40 pixels. */
